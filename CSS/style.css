@@ -1,0 +1,98 @@
+body {
+    background-color:#f4ba5a;
+}
+.main {
+    margin: 50px;
+    padding: 40px;
+}
+.titulo {
+    text-align: center;
+    font-size: 55px;
+}
+.parrafo-1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 90px;
+    font-size: 20px;
+
+}
+.imagen-gemelas {
+    height: auto;
+    width: 100%;
+    margin-top: 40px;
+
+}
+.datos-curiosos {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
+.div-datos {
+    font-size: 25px;
+    margin-top: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.imagen-2 {
+    margin-top: 0%;
+    width: 50%;
+    padding-left: 250px;
+}
+.reparto {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15%;
+}
+.lindsay-lohan {
+    padding-left: 450px;
+    margin-top: 10%;
+    width: 20%;
+   
+}
+.lidsay {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.natasha-jane {
+    padding-left: 450px;
+    margin-top: 10%;
+    width: 20%;
+}
+.natasha {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.dennis-william {
+    padding-left: 450px;
+    margin-top: 10%;
+    width: 20%;
+}
+.dennis {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.simon-kunz {
+    padding-left: 450px;
+    margin-top: 10%;
+    width: 20%;
+}
+.simon {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.lisa-ann {
+    padding-left: 450px;
+    margin-top: 10%;
+    width: 20%
+}
+.lisa {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.katherine-elaine {
+    padding-left: 450px;
+    margin-top: 10%;
+    width: 20%
+}
+.katherine {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
